@@ -1,0 +1,29 @@
+{
+  "repo": {
+    "name": "Snippets n' Memes Actions",
+    "version": 1.0,
+    "actions": [
+      {
+        "name": ".NET Container Build",
+        "version": 1.0,
+        "slug": "dotnet",
+        "file": "dotnet-container.yml",
+        "author": "dkoch84"
+      },
+      {
+        "name": "Terraform Plan/Apply",
+        "version": 1.0,
+        "slug": "terraform",
+        "file": "terraform.yml",
+        "author": "dkoch84"
+      },
+      {
+        "name": "Terraform Destroy",
+        "version": 1.0,
+        "slug": "terraform-destroy",
+        "file": "terraform-destroy.yml",
+        "author": "dkoch84"
+      }
+    ]
+  }
+}

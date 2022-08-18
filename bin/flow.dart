@@ -1,6 +1,6 @@
 import 'dart:io';
-import 'package:action/repo.dart' as repo;
-import 'package:action/workflow.dart' as workflow;
+import 'package:flow/repo.dart' as repo;
+import 'package:flow/workflow.dart' as workflow;
 
 const actionName = '';
 
